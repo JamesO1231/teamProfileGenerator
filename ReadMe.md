@@ -5,6 +5,7 @@
 
 ## Installations
 * Inquirer
+* Jest
 * fs
 * open
 
